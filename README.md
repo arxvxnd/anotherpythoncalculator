@@ -1,4 +1,4 @@
-# Python Calculator
+# *Another* Python Calculator
 
 A menu-driven calculator written in Python.  
 It supports basic arithmetic, advanced mathematical operations, and includes simple input validation to prevent errors.
